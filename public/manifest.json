@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://youthful-mcclintock-be5d57.netlify.app/",
+  "start_url": "/",
   "display": "fullscreen",
   "theme_color": "#000000",
   "background_color": "#ffffff"
